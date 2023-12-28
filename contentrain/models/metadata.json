@@ -1,13 +1,5 @@
 [
   {
-    "name": "json-model",
-    "description": "This is an awesome JSON model.",
-    "modelId": "json-model",
-    "localization": true,
-    "type": "JSON",
-    "createdBy": "user"
-  },
-  {
     "name": "markdown-model",
     "description": "This is an awesome Markdown model",
     "modelId": "markdown-model",
