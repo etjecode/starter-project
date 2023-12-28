@@ -8,5 +8,15 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "string-field-1",
+    "description": "This is string field.",
+    "fieldId": "string-field-1",
+    "modelId": "json-model",
+    "componentId": "single-line-text",
+    "validations": {},
+    "options": {},
+    "fieldType": "string"
   }
 ]
