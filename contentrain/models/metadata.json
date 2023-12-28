@@ -15,13 +15,6 @@
     "createdBy": "user"
   },
   {
-    "name": "json-model-2",
-    "modelId": "json-model-2",
-    "localization": false,
-    "type": "JSON",
-    "createdBy": "user"
-  },
-  {
     "name": "json-model-1",
     "modelId": "json-model-1",
     "localization": false,
