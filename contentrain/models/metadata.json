@@ -6,12 +6,5 @@
     "localization": true,
     "type": "MDX",
     "createdBy": "user"
-  },
-  {
-    "name": "json-model",
-    "modelId": "json-model",
-    "localization": true,
-    "type": "JSON",
-    "createdBy": "user"
   }
 ]
