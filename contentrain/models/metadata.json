@@ -13,5 +13,12 @@
     "localization": true,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "json-model-2",
+    "modelId": "json-model-2",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
