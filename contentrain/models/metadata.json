@@ -14,15 +14,5 @@
     "localization": true,
     "type": "MDX",
     "createdBy": "user"
-  },
-  {
-    "name": "json-model",
-    "description": "This is an awesome JSON model.",
-    "modelId": "json-model-1",
-    "localization": true,
-    "type": "JSON",
-    "createdBy": "user",
-    "projectId": "e5oee9zgkv",
-    "id": "json-model"
   }
 ]
