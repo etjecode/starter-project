@@ -1,12 +1,1 @@
-[
-  {
-    "name": "string-field",
-    "description": "This is string field.",
-    "fieldId": "string-field",
-    "modelId": "json-model",
-    "componentId": "single-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
-  }
-]
+[]
