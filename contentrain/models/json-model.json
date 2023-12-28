@@ -24,9 +24,23 @@
     "description": "This is string field.",
     "fieldId": "string-field-1-1",
     "modelId": "json-model",
-    "componentId": "single-line-text",
-    "validations": {},
-    "options": {},
+    "componentId": "multi-line-text",
+    "options": {
+      "title-field": {
+        "value": false
+      },
+      "default-value": {
+        "value": false
+      }
+    },
+    "validations": {
+      "required-field": {
+        "value": false
+      },
+      "unique-field": {
+        "value": false
+      }
+    },
     "fieldType": "string"
   }
 ]
